@@ -1,8 +1,7 @@
 pandas
 numpy
 seaborn
-flask
+Flask
 scikit-learn
-datetime
 xgboost
 #-e .
